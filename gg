@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "\"Caste Census In Madhya Pradesh\": Big Congress Poll Pitch In Bundelkhand - NDTV",
+            "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+            "url": "https://www.ndtv.com/news",
+            "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+            "publishedAt": "2023-08-22T08:50:05Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "WATCH - 'Rohit bhai has …..': Tilak Varma reveals chat with Rohit Sharma - IndiaTimes",
+            "description": "Cricket News: Young batting sensation Tilak Varma has earned his place in India's squad for the upcoming Asia Cup, a decision that has garnered praise from numerous",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/tilak-varma-reveals-chat-with-rohit-sharma-asia-cup-2023-india-squad/articleshow/102932018.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-102932266,width-1070,height-580,imgsize-92878,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2023-08-22T06:11:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India.com"
+            },
+            "author": "Devadyuti Das",
+            "title": "Afghanistan Vs Pakistan 2023 1st ODI Match Livestreaming: When And Where To Watch AFG Vs PAK 1st ODI LIVE I... - Zee News",
+            "description": "@Hashmat_50 and @BabarAzam258 unveiled the Super Cola Cup Afghanistan vs Pakistan Series trophy this evening. #AfghanAtalan | #AFGvPAK | #SuperColaCup | #ByaMaidanGato pic.twitter.comoIpK1UN6zt — Afghanistan Cricket Board (@ACBofficials) August 21, 2023 Here …",
+            "url": "https://zeenews.india.com/cricket/afghanistan-vs-pakistan-2023-1st-odi-match-livestreaming-when-and-where-to-watch-afg-vs-pak-1st-odi-live-in-india-2651977.html",
+            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2023/08/22/1267366-afgpaklive.jpg",
+            "publishedAt": "2023-08-22T02:03:14Z",
+            "content": "Pakistan will take on Afghanistan in a first-ever bilateral ODI series which gets underway with the first game at the Mahinda Rajapaksa International Stadium in Hambantota on Tuesday. Both Pakistan a… [+2308 chars]"
+        }
+    ]
+}
